@@ -10,7 +10,6 @@ D:\TDD\TestDriven\CarFuel.Facts\bin\Debug\xunit.assert.dll
 D:\TDD\TestDriven\CarFuel.Facts\bin\Debug\xunit.core.dll
 D:\TDD\TestDriven\CarFuel.Facts\bin\Debug\CarFuel.Models.pdb
 D:\TDD\TestDriven\CarFuel.Facts\bin\Debug\xunit.assert.pdb
-D:\TDD\TestDriven\CarFuel.Facts\bin\Debug\xunit.assert.xml
 D:\TDD\TestDriven\CarFuel.Facts\bin\Debug\xunit.core.pdb
 D:\TDD\TestDriven\CarFuel.Facts\bin\Debug\xunit.core.xml
 D:\TDD\TestDriven\CarFuel.Facts\obj\Debug\CarFuel.Facts.dll
