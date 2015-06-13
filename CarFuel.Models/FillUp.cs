@@ -17,9 +17,22 @@ namespace CarFuel.Models
 
         public DateTime Date { get; set; }
 
+        public FillUp NextFillUp { get; set; }
+
         public FillUp()
         {
             this.Date = SystemTime.Now();
+        }
+
+        public double? KilometerPerLiter 
+        {
+            get 
+            {
+                if (this.NextFillUp == null)
+                    return null;
+
+                return (this.NextFillUp.Odometer - this.Odometer) / this.NextFillUp.Liters;
+            }
         }
     }
 }
