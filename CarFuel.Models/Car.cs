@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CarFuel.Models
 {
-    public class Class
+    public class Car
     {
     }
 }
